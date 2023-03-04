@@ -1,0 +1,3 @@
+- [Arduino Uno LED/Button Interface](https://www.tinkercad.com/things/lzLv51NXpCb?sharecode=HhzGfEpuc1_-hAfOyNmA9vQTfTX910Gx-sCd1HMVT2o)
+- [Arduino Uno DC Motor Speed Control Circuit with Potentiometer](https://www.tinkercad.com/things/9bjzr1AZDXb)
+- [LED Cycle with Potentiometer Speed Control & Pause/Resume Button](https://www.tinkercad.com/things/bOWkKZfKr5F)
